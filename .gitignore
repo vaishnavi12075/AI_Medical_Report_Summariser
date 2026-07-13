@@ -1,0 +1,11 @@
+
+#Virtual Environment
+venv/
+# Environment Variables(API Keys)
+.env 
+# Python cache files
+__pycache__/
+*.pyc 
+
+# Generated files
+summary.pdf
