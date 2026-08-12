@@ -17,6 +17,15 @@ In addition, the application:
 - 📢 Includes a medical disclaimer
 
 ---
+# 🎥 Project Demo
+https://github.com/user-attachments/assets/5935135c-675d-44f4-a797-2bdca4e1e0e5
+
+
+
+
+
+
+
 
 # ✨ Features
 -📄 Upload Medical Report
